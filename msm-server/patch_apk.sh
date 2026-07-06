@@ -105,23 +105,28 @@ zip -r -q "$APK_WORK/msm-patched-unsigned.apk" .
 echo "  Reempacotado."
 
 # Alinhar (se zipalign disponível)
-if which zipalign &>/dev/null; then
+ZIPALIGN=$(which zipalign 2>/dev/null || ls "$HOME/android/build-tools/"*/zipalign 2>/dev/null | head -1)
+if [ -n "$ZIPALIGN" ]; then
     echo "  Alinhando com zipalign..."
-    zipalign -f 4 "$APK_WORK/msm-patched-unsigned.apk" "$APK_WORK/msm-patched-aligned.apk"
+    "$ZIPALIGN" -f 4 "$APK_WORK/msm-patched-unsigned.apk" "$APK_WORK/msm-patched-aligned.apk"
     mv "$APK_WORK/msm-patched-aligned.apk" "$APK_WORK/msm-patched-unsigned.apk"
 fi
 
-# Assinar
+# Assinar com apksigner (v1+v2+v3)
 echo "[5/5] Assinando APK..."
-jarsigner -keystore "$KEYSTORE" -storepass "$STOREPASS" -keypass "$STOREPASS" \
-    -sigalg SHA256withRSA -digestalg SHA-256 \
-    "$APK_WORK/msm-patched-unsigned.apk" "$ALIAS" 2>&1 | grep -v "Warning:"
-
-# Verificar
-jarsigner -verify -keystore "$KEYSTORE" "$APK_WORK/msm-patched-unsigned.apk" 2>&1 | grep -E "jar verified|signatures"
-
-# Renomear
-cp "$APK_WORK/msm-patched-unsigned.apk" "$APK_WORK/msm-patched.apk"
+APKSIGNER=$(which apksigner 2>/dev/null || ls "$HOME/android/build-tools/"*/apksigner 2>/dev/null | head -1)
+if [ -n "$APKSIGNER" ]; then
+    "$APKSIGNER" sign --ks "$KEYSTORE" --ks-pass pass:"$STOREPASS" --ks-key-alias "$ALIAS" \
+        --out "$APK_WORK/msm-patched.apk" "$APK_WORK/msm-patched-unsigned.apk"
+    echo "  Verificando assinatura..."
+    "$APKSIGNER" verify --verbose "$APK_WORK/msm-patched.apk" 2>&1 | grep -E "Verifies|Verified using"
+else
+    # Fallback: jarsigner (v1 only)
+    jarsigner -keystore "$KEYSTORE" -storepass "$STOREPASS" -keypass "$STOREPASS" \
+        -sigalg SHA256withRSA -digestalg SHA-256 \
+        "$APK_WORK/msm-patched-unsigned.apk" "$ALIAS" 2>&1 | grep -v "Warning:"
+    cp "$APK_WORK/msm-patched-unsigned.apk" "$APK_WORK/msm-patched.apk"
+fi
 echo ""
 echo "=== APK patchado com sucesso! ==="
 echo "Arquivo: $APK_WORK/msm-patched.apk"
