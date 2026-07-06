@@ -1,0 +1,272 @@
+[
+  {
+    "cost_coins": 40000,
+    "cost_diamonds": 100,
+    "xp": 2750,
+    "mastertext_desc": "RARE_FLEX_DEF_LABEL",
+    "_def": "{\"Rarity\": \"rare\", \"ExactNumGenes\": 2, \"ContainsGenes\": \"A\"}",
+    "id": 1,
+    "last_changed": 1695822549000,
+    "date_created": 1746022408572
+  },
+  {
+    "cost_coins": 40000,
+    "cost_diamonds": 100,
+    "xp": 2750,
+    "mastertext_desc": "RARE_FLEX_DEF_LABEL",
+    "_def": "{\"Rarity\": \"rare\", \"ExactNumGenes\": 2, \"ContainsGenes\": \"B\"}",
+    "id": 2,
+    "last_changed": 1695822549000,
+    "date_created": 1746022408572
+  },
+  {
+    "cost_coins": 40000,
+    "cost_diamonds": 100,
+    "xp": 2750,
+    "mastertext_desc": "RARE_FLEX_DEF_LABEL",
+    "_def": "{\"Rarity\": \"rare\", \"ExactNumGenes\": 2, \"ContainsGenes\": \"C\"}",
+    "id": 3,
+    "last_changed": 1695822549000,
+    "date_created": 1746022408572
+  },
+  {
+    "cost_coins": 40000,
+    "cost_diamonds": 100,
+    "xp": 2750,
+    "mastertext_desc": "RARE_FLEX_DEF_LABEL",
+    "_def": "{\"Rarity\": \"rare\", \"ExactNumGenes\": 2, \"ContainsGenes\": \"D\"}",
+    "id": 4,
+    "last_changed": 1695822549000,
+    "date_created": 1746022408572
+  },
+  {
+    "cost_coins": 40000,
+    "cost_diamonds": 100,
+    "xp": 2750,
+    "mastertext_desc": "RARE_FLEX_DEF_LABEL",
+    "_def": "{\"Rarity\": \"rare\", \"ExactNumGenes\": 2, \"ContainsGenes\": \"E\"}",
+    "id": 5,
+    "last_changed": 1695822549000,
+    "date_created": 1746022408572
+  },
+  {
+    "cost_coins": 250000,
+    "cost_diamonds": 200,
+    "xp": 5000,
+    "mastertext_desc": "RARE_FLEX_DEF_LABEL",
+    "_def": "{\"Rarity\": \"rare\", \"ExactNumGenes\": 2, \"ContainsGenes\": \"N\"}",
+    "id": 6,
+    "last_changed": 1695822549000,
+    "date_created": 1746022408572
+  },
+  {
+    "cost_coins": 250000,
+    "cost_diamonds": 200,
+    "xp": 5000,
+    "mastertext_desc": "RARE_FLEX_DEF_LABEL",
+    "_def": "{\"Rarity\": \"rare\", \"ExactNumGenes\": 2, \"ContainsGenes\": \"R\"}",
+    "id": 7,
+    "last_changed": 1695822549000,
+    "date_created": 1746022408572
+  },
+  {
+    "cost_coins": 250000,
+    "cost_diamonds": 200,
+    "xp": 5000,
+    "mastertext_desc": "RARE_FLEX_DEF_LABEL",
+    "_def": "{\"Rarity\": \"rare\", \"ExactNumGenes\": 2, \"ContainsGenes\": \"V\"}",
+    "id": 8,
+    "last_changed": 1695822549000,
+    "date_created": 1746022408572
+  },
+  {
+    "cost_coins": 250000,
+    "cost_diamonds": 200,
+    "xp": 5000,
+    "mastertext_desc": "RARE_FLEX_DEF_LABEL",
+    "_def": "{\"Rarity\": \"rare\", \"ExactNumGenes\": 2, \"ContainsGenes\": \"W\"}",
+    "id": 9,
+    "last_changed": 1695822549000,
+    "date_created": 1746022408572
+  },
+  {
+    "cost_coins": 250000,
+    "cost_diamonds": 200,
+    "xp": 5000,
+    "mastertext_desc": "RARE_FLEX_DEF_LABEL",
+    "_def": "{\"Rarity\": \"rare\", \"ExactNumGenes\": 2, \"ContainsGenes\": \"Y\"}",
+    "id": 10,
+    "last_changed": 1695822550000,
+    "date_created": 1746022408572
+  },
+  {
+    "cost_coins": 500000,
+    "cost_diamonds": 400,
+    "xp": 18000,
+    "mastertext_desc": "RARE_FLEX_DEF_LABEL",
+    "_def": "{\"Rarity\": \"rare\", \"ExactNumGenes\": 3, \"ContainsGenes\": \"N\"}",
+    "id": 11,
+    "last_changed": 1695822550000,
+    "date_created": 1746022408572
+  },
+  {
+    "cost_coins": 65000,
+    "cost_diamonds": 300,
+    "xp": 8000,
+    "mastertext_desc": "RARE_FLEX_DEF_LABEL",
+    "_def": "{\"Rarity\": \"rare\", \"ExactNumGenes\": 3, \"ContainsGenes\": \"A\"}",
+    "id": 12,
+    "last_changed": 1701267903000,
+    "date_created": 1746022408572
+  },
+  {
+    "cost_coins": 65000,
+    "cost_diamonds": 300,
+    "xp": 8000,
+    "mastertext_desc": "RARE_FLEX_DEF_LABEL",
+    "_def": "{\"Rarity\": \"rare\", \"ExactNumGenes\": 3, \"ContainsGenes\": \"B\"}",
+    "id": 13,
+    "last_changed": 1701813978000,
+    "date_created": 1746022408572
+  },
+  {
+    "cost_coins": 65000,
+    "cost_diamonds": 300,
+    "xp": 8000,
+    "mastertext_desc": "RARE_FLEX_DEF_LABEL",
+    "_def": "{\"Rarity\": \"rare\", \"ExactNumGenes\": 3, \"ContainsGenes\": \"C\"}",
+    "id": 14,
+    "last_changed": 1695822550000,
+    "date_created": 1746022408572
+  },
+  {
+    "cost_coins": 65000,
+    "cost_diamonds": 300,
+    "xp": 8000,
+    "mastertext_desc": "RARE_FLEX_DEF_LABEL",
+    "_def": "{\"Rarity\": \"rare\", \"ExactNumGenes\": 3, \"ContainsGenes\": \"D\"}",
+    "id": 15,
+    "last_changed": 1701813978000,
+    "date_created": 1746022408572
+  },
+  {
+    "cost_coins": 65000,
+    "cost_diamonds": 300,
+    "xp": 8000,
+    "mastertext_desc": "RARE_FLEX_DEF_LABEL",
+    "_def": "{\"Rarity\": \"rare\", \"ExactNumGenes\": 3, \"ContainsGenes\": \"E\"}",
+    "id": 16,
+    "last_changed": 1701813978000,
+    "date_created": 1746022408572
+  },
+  {
+    "cost_coins": 500000,
+    "cost_diamonds": 400,
+    "xp": 18000,
+    "mastertext_desc": "RARE_FLEX_DEF_LABEL",
+    "_def": "{\"Rarity\": \"rare\", \"ExactNumGenes\": 3, \"ContainsGenes\": \"R\"}",
+    "id": 17,
+    "last_changed": 1701813978000,
+    "date_created": 1746022408572
+  },
+  {
+    "cost_coins": 500000,
+    "cost_diamonds": 400,
+    "xp": 18000,
+    "mastertext_desc": "RARE_FLEX_DEF_LABEL",
+    "_def": "{\"Rarity\": \"rare\", \"ExactNumGenes\": 3, \"ContainsGenes\": \"V\"}",
+    "id": 18,
+    "last_changed": 1701813978000,
+    "date_created": 1746022408572
+  },
+  {
+    "cost_coins": 500000,
+    "cost_diamonds": 400,
+    "xp": 18000,
+    "mastertext_desc": "RARE_FLEX_DEF_LABEL",
+    "_def": "{\"Rarity\": \"rare\", \"ExactNumGenes\": 3, \"ContainsGenes\": \"W\"}",
+    "id": 19,
+    "last_changed": 1701813978000,
+    "date_created": 1746022408572
+  },
+  {
+    "cost_coins": 500000,
+    "cost_diamonds": 400,
+    "xp": 18000,
+    "mastertext_desc": "RARE_FLEX_DEF_LABEL",
+    "_def": "{\"Rarity\": \"rare\", \"ExactNumGenes\": 3, \"ContainsGenes\": \"Y\"}",
+    "id": 20,
+    "last_changed": 1701813978000,
+    "date_created": 1746022408572
+  },
+  {
+    "cost_coins": 200000,
+    "cost_diamonds": 400,
+    "xp": 110000,
+    "mastertext_desc": "RARE_FLEX_DEF_LABEL",
+    "_def": "{\"Rarity\": \"rare\", \"ExactNumGenes\": 4, \"ContainsGenes\": \"A\"}",
+    "id": 21,
+    "last_changed": 1701267903000,
+    "date_created": 1746022408572
+  },
+  {
+    "cost_coins": 200000,
+    "cost_diamonds": 400,
+    "xp": 110000,
+    "mastertext_desc": "RARE_FLEX_DEF_LABEL",
+    "_def": "{\"Rarity\": \"rare\", \"ExactNumGenes\": 4, \"ContainsGenes\": \"B\"}",
+    "id": 22,
+    "last_changed": 1701813978000,
+    "date_created": 1746022408572
+  },
+  {
+    "cost_coins": 200000,
+    "cost_diamonds": 400,
+    "xp": 110000,
+    "mastertext_desc": "RARE_FLEX_DEF_LABEL",
+    "_def": "{\"Rarity\": \"rare\", \"ExactNumGenes\": 4, \"ContainsGenes\": \"C\"}",
+    "id": 23,
+    "last_changed": 1695822550000,
+    "date_created": 1746022408572
+  },
+  {
+    "cost_coins": 200000,
+    "cost_diamonds": 400,
+    "xp": 110000,
+    "mastertext_desc": "RARE_FLEX_DEF_LABEL",
+    "_def": "{\"Rarity\": \"rare\", \"ExactNumGenes\": 4, \"ContainsGenes\": \"D\"}",
+    "id": 24,
+    "last_changed": 1700058171000,
+    "date_created": 1746022408572
+  },
+  {
+    "cost_coins": 200000,
+    "cost_diamonds": 400,
+    "xp": 110000,
+    "mastertext_desc": "RARE_FLEX_DEF_LABEL",
+    "_def": "{\"Rarity\": \"rare\", \"ExactNumGenes\": 4, \"ContainsGenes\": \"E\"}",
+    "id": 25,
+    "last_changed": 1700058171000,
+    "date_created": 1746022408572
+  },
+  {
+    "cost_coins": 750000,
+    "cost_diamonds": 600,
+    "xp": 180000,
+    "mastertext_desc": "RARE_FLEX_DEF_LABEL",
+    "_def": "{\"Rarity\": \"rare\", \"ExactNumGenes\": 4, \"ContainsGenes\": \"N\"}",
+    "id": 26,
+    "last_changed": 1716990708000,
+    "date_created": 1746022408572
+  },
+  {
+    "cost_coins": 250000,
+    "cost_diamonds": 150,
+    "xp": 10000,
+    "mastertext_desc": "MYTHICAL_FLEX_DEF_LABEL",
+    "_def": "{\"Rarity\": \"common\", \"ExactGenes\": \"P\"}",
+    "id": 27,
+    "last_changed": 1716990708000,
+    "date_created": 1746022408572
+  }
+]

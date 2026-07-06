@@ -1,0 +1,12 @@
+*.apk
+*.keystore
+*.log
+__pycache__/
+*.pyc
+.env
+*.so
+msm-server/sfs2x/jre/lib/modules
+msm-server/sfs2x/jre/lib/server/
+msm-server/sfs2x/jre/bin/
+msm-server/sfs2x/jre/lib/jexec
+msm-server/sfs2x/jre/lib/jspawnhelper

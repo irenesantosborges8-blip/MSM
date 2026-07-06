@@ -1,0 +1,101 @@
+[
+  {
+    "group_title": "STORE_GOLD",
+    "group_name": "coins",
+    "ad_name": "COIN",
+    "currency": 1,
+    "min_server_version": "0.0",
+    "store_ordering": 6,
+    "id": 1,
+    "last_changed": 1701813990000,
+    "date_created": 1746022408572
+  },
+  {
+    "group_title": "STORE_DIAMOND",
+    "group_name": "diamond",
+    "ad_name": "DIAMOND",
+    "currency": 1,
+    "min_server_version": "0.0",
+    "store_ordering": 5,
+    "id": 2,
+    "last_changed": 1701813990000,
+    "date_created": 1746022408572
+  },
+  {
+    "group_title": "STORE_FOOD",
+    "group_name": "food",
+    "ad_name": "FOOD",
+    "currency": 1,
+    "min_server_version": "0.0",
+    "store_ordering": 7,
+    "id": 3,
+    "last_changed": 1701813990000,
+    "date_created": 1746022408572
+  },
+  {
+    "group_title": "STORE_COMBO",
+    "group_name": "combo",
+    "ad_name": "COMBOPROMO",
+    "currency": 1,
+    "min_server_version": "4.1",
+    "store_ordering": 1,
+    "id": 4,
+    "last_changed": 1585677231000,
+    "date_created": 1746022408572
+  },
+  {
+    "group_title": "STORE_KEYS",
+    "group_name": "key",
+    "ad_name": "KEY",
+    "currency": 1,
+    "min_server_version": "4.2",
+    "store_ordering": 8,
+    "id": 5,
+    "last_changed": 1701813990000,
+    "date_created": 1746022408572
+  },
+  {
+    "group_title": "STORE_ISLAND_THEMES",
+    "group_name": "island_theme",
+    "ad_name": "ISLANDTHEME",
+    "currency": 1,
+    "min_server_version": "6.0",
+    "store_ordering": 9,
+    "id": 6,
+    "last_changed": 1701813990000,
+    "date_created": 1746022408572
+  },
+  {
+    "group_title": "STORE_DAILY_CURRENCY",
+    "group_name": "daily_currency",
+    "ad_name": "DAILYCURRENCY",
+    "currency": 1,
+    "min_server_version": "6.6",
+    "store_ordering": 3,
+    "id": 7,
+    "last_changed": 1701813990000,
+    "date_created": 1746022408572
+  },
+  {
+    "group_title": "STORE_RELICS",
+    "group_name": "relics",
+    "ad_name": "RELIC",
+    "currency": 1,
+    "min_server_version": "9.1",
+    "store_ordering": 4,
+    "id": 8,
+    "last_changed": 1701813990000,
+    "date_created": 1746022408572
+  },
+  {
+    "group_title": "STORE_BUNDLE",
+    "group_name": "bundle",
+    "ad_name": "BUNDLE",
+    "currency": 1,
+    "min_server_version": "9.2",
+    "store_ordering": 2,
+    "id": 9,
+    "last_changed": 1701813990000,
+    "date_created": 1746022408572
+  }
+]

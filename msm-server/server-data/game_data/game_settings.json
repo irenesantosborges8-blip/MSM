@@ -1,0 +1,1290 @@
+[
+  {
+    "id": 1,
+    "key": "USER_DIAMOND_COST_PER_LIT_TORCH",
+    "value": "2",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 2,
+    "key": "USER_NOTIFICATIONS_DISABLED_HELPSHIFT_ID",
+    "value": "494",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 3,
+    "key": "USER_SELLING_PERCENTAGE",
+    "value": "0.75",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 4,
+    "key": "USER_RELIC_GENERATION_DAYS",
+    "value": "30",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 5,
+    "key": "USER_SHOW_SPIN_STICKER_STAGE",
+    "value": "2",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 6,
+    "key": "USER_RARE_FIRE_BOX_INVENTORY_DIAMOND_PRICE_PER_MONSTER",
+    "value": "50",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 7,
+    "key": "USER_PROMO_NAG_TIME",
+    "value": "172800000",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 8,
+    "key": "USER_NATURAL_COMMON_BOX_INV_WILDCARDS_PRICE_PER_EGG",
+    "value": "1",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 9,
+    "key": "USER_RELIC_DIAMOND_COSTS",
+    "value": "[1,3,6,9,12,18,25,36,50]",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 10,
+    "key": "USER_COLLECTALL_EVENT_NUM_PULSES",
+    "value": "3",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 11,
+    "key": "USER_COIN_COST_PER_DAILY_MEGAMONSTER",
+    "value": "0",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 12,
+    "key": "USER_COLLECT_ALL_WAIT_MINS_PAYING",
+    "value": "0",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 13,
+    "key": "USER_SYNTHESIZER_CHANCE_VAR",
+    "value": "1.5",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 14,
+    "key": "USER_FLIP_LIMIT_MISMATCHES",
+    "value": "1",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 15,
+    "key": "USER_MAGICAL_NEXUS_TELEPORT_COST_COMMON",
+    "value": "[{\"type\":\"coins\",\"amount\":1000000},{\"type\":\"coins\",\"amount\":2000000},{\"type\":\"coins\",\"amount\":4000000},{\"type\":\"coins\",\"amount\":8000000}]",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 16,
+    "key": "USER_CRUCIBLE_MAX_FLAG_BOOST",
+    "value": "0.3",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 17,
+    "key": "USER_CRUCIBLE_LEVEL_BOOST_EPIC",
+    "value": "0.002",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 18,
+    "key": "USER_MINIGAME_NOTIFICATION_STAGES",
+    "value": "[9,11]",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 19,
+    "key": "USER_NATURAL_RARE_BOX_INV_WILDCARDS_PRICE_PER_GENE",
+    "value": "1",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 20,
+    "key": "USER_ETH_DIAMOND_EXCHANGE_RATE",
+    "value": "30000,1",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 21,
+    "key": "USER_FB_HATCH_POST_LINK",
+    "value": "https://www.bigbluebubble.com/_fb_share_msm.php",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 22,
+    "key": "USER_CRUCIBLE_HEAT_BOOST_EPIC_FIXED",
+    "value": "0.03",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 23,
+    "key": "USER_ATTUNER_OFFSET_DATA",
+    "value": "[{\"offset\":0,\"cost\":500,\"duration\":5}, {\"offset\":1,\"cost\":1000,\"duration\":10}, {\"offset\":2,\"cost\":5000,\"duration\":20}]",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 24,
+    "key": "USER_GUIDED_BREEDING_SILENCE_DURATION_S",
+    "value": "300",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 25,
+    "key": "USER_PUSH_NOTIFICATION_NAG_LEVELS",
+    "value": "10,12,15,18,21,24,27,30,33,36,39,42,45,48,51,54,57,60",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 26,
+    "key": "USER_WUBLIN_RARE_BOX_INVENTORY_DIAMOND_PRICE_PER_MONSTER",
+    "value": "2000",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 27,
+    "key": "USER_NUM_LOGINS_BETWEEN_FACEBOOK_BIND_NAG",
+    "value": "1",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 28,
+    "key": "USER_MONSTER_BATTLE_LEVEL",
+    "value": "5",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 29,
+    "key": "USER_PVP_CAMPAIGN_DEPENDS",
+    "value": "6",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 30,
+    "key": "USER_MAX_NUM_SYNTHESIZERS",
+    "value": "1",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 31,
+    "key": "USER_MORE_GAMES_ANDROID",
+    "value": "playhaven",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 32,
+    "key": "USER_MAP_TAG_COLLECT_THRESHOLD",
+    "value": "0.75",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 33,
+    "key": "USER_CRUCIBLE_UNLOCKS",
+    "value": "[5,10,15]",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 34,
+    "key": "USER_CELESTIAL_EARLY_ASCEND_FAIL_VAL_DELETE",
+    "value": "0.5",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 35,
+    "key": "USER_WUBLIN_RARE_BOX_INV_WILDCARDS_PRICE_PER_EGG",
+    "value": "40",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 36,
+    "key": "USER_BIND_NAG_LEVELS",
+    "value": "9,10,12,13,14,15,16,17,18,19,20,25,30,35,40,45,50,55,60,65,70,75,80,85,90,95,100",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 37,
+    "key": "USER_MAX_NUM_RARE_UNDERLINGS_OF_TYPE",
+    "value": "3",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 38,
+    "key": "USER_FB_PLATFORM_REDIRECT_URL",
+    "value": "http://www.bbbarcade.com/mysingingmonsters/msm_facebook/platform_redirect.php",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 39,
+    "key": "USER_RATE_GAME_NAG_LEVELS",
+    "value": "9,16,21,26,31,36,41,46,51,56",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 40,
+    "key": "USER_FIRE_BOX_INVENTORY_DIAMOND_PRICE_PER_MONSTER",
+    "value": "38",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 41,
+    "key": "USER_TIMED_EVENT_UNLOCK_LEVEL_DEFAULT",
+    "value": "4",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 42,
+    "key": "USER_MORE_GAMES_AMAZON",
+    "value": "chartboost",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 43,
+    "key": "USER_FB_POST_REWARD",
+    "value": "0",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 44,
+    "key": "USER_COIN_COST_PER_PERMALIT_MEGAMONSTER",
+    "value": "0",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 45,
+    "key": "USER_MAX_COMPOSER_TEMPLATES",
+    "value": "10",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 46,
+    "key": "USER_SHOW_FLIP_STICKER_STAGE",
+    "value": "2",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 47,
+    "key": "USER_NOTIFICATIONS_DYNAMIC_NAG_PERIOD_FREQUENT_THRESHOLD",
+    "value": "5",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 48,
+    "key": "USER_GUIDED_BAKERY_COOLDOWN_DURATION_S",
+    "value": "30",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 49,
+    "key": "USER_AMBER_HOTEL_MULTIPLIER",
+    "value": "2",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 50,
+    "key": "USER_ADCOLONY_IOS_ENABLED",
+    "value": "1",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 51,
+    "key": "USER_KAYNA_UNLOCK_LEVEL",
+    "value": "100",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 52,
+    "key": "USER_DISH_HARMONIZER_TARGET_GRANT_NUM_2_GENE",
+    "value": "6",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 53,
+    "key": "USER_SOUL_LINK_COIN_COSTS",
+    "value": "[10000,100000]",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 54,
+    "key": "USER_COSTUME_RELICS_SELL_COST",
+    "value": "1",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 55,
+    "key": "USER_WUBLIN_BOX_INV_WILDCARDS_PRICE_PER_EGG",
+    "value": "15",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 56,
+    "key": "USER_SUPERCHARGED_SPEEDUP_CONDITIONS",
+    "value": "{\"timeSinceLastSpeedUp\":172800,\"minTimeRemaining\":6300,\"minPercent\":70}",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 57,
+    "key": "USER_MAX_NUM_CELESTIALS_OF_TYPE",
+    "value": "5",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 58,
+    "key": "USER_INVITE_REWARD",
+    "value": "0",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 59,
+    "key": "USER_MIN_REFERRAL_LEVEL",
+    "value": "4",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 60,
+    "key": "USER_ACTIVATE_GFX_PRIORITY",
+    "value": "0.5",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 61,
+    "key": "USER_FIRE_COMMON_BOX_INV_WILDCARDS_PRICE_PER_GENE",
+    "value": "1",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 62,
+    "key": "USER_NOTIFICATIONS_DYNAMIC_NAG_MINIMUM_DURATION_SEC",
+    "value": "1800",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 63,
+    "key": "USER_SYNTHESIZER_REQUIRED_GENES",
+    "value": "[1,3,4]",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 64,
+    "key": "USER_CRUCIBLE_LEVEL_BOOST_RANGE",
+    "value": "[5,15]",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 65,
+    "key": "USER_MONSTER_SCRATCHOFF_PRICE",
+    "value": "10",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 66,
+    "key": "USER_ALLOWED_SPEED_UP_STRUCTURES",
+    "value": "bakery,breeding,castle,fuzer,nursery,obstacle",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 67,
+    "key": "USER_DIAMOND_COST_PER_PERMALIT_TORCH",
+    "value": "100",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 68,
+    "key": "USER_SUPERCHARGED_SPEED_UP_DURATION",
+    "value": "60",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 69,
+    "key": "USER_WUBLIN_RARE_BOX_ENT_ID",
+    "value": "1771",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 70,
+    "key": "USER_CELESTIAL_EARLY_ASCEND_RARE_KEY_COST",
+    "value": "10",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 71,
+    "key": "USER_GUIDANCE_BAKERY_UNTIL_NUM_MONSTERS",
+    "value": "12",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 72,
+    "key": "USER_DIAMOND_COST_PER_DAILY_MEGAMONSTER",
+    "value": "2",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 73,
+    "key": "USER_DAILY_CURRENCY_REFRESH_PERIOD",
+    "value": "3600",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 74,
+    "key": "USER_RARE_EGG_WILDCARD_COST_PER_GENE",
+    "value": "1",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 75,
+    "key": "USER_PROMO_TYPES_IN_MARKET",
+    "value": "3",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 76,
+    "key": "USER_NUCLEUS_MONSTER_GENE_SET_SIZE",
+    "value": "[4,12,12,4]",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 77,
+    "key": "USER_MAGICAL_NEXUS_MONSTER_LEVEL",
+    "value": "18",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 78,
+    "key": "USER_NOTIFICATIONS_DYNAMIC_NAG_FREQUENT_PROMPT_EXPIRY_MS",
+    "value": "604800000",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 79,
+    "key": "USER_MAX_TRIBE_MEMBERS",
+    "value": "30",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 80,
+    "key": "USER_REFERRAL_NAG_LEVEL",
+    "value": "8",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 81,
+    "key": "USER_GUIDANCE_BREEDING_UNTIL_NUM_MONSTERS",
+    "value": "12",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 82,
+    "key": "USER_SUPERCHARGED_SPEEDUP_ENABLED",
+    "value": "1",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 83,
+    "key": "USER_FB_ACHIEVEMENTS_URL",
+    "value": "http://www.bbbarcade.com/mysingingmonsters/msm_facebook/admin/post_achievement.php",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 84,
+    "key": "USER_COLLECT_ALL_ISLAND_UNLOCK",
+    "value": "3",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 85,
+    "key": "USER_CELESTIAL_EARLY_ASCEND_FILL_REQ",
+    "value": "0.5",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 86,
+    "key": "USER_SOUL_LINK_DIAMOND_INCREMENT_COST",
+    "value": "5",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 87,
+    "key": "USER_CRUCIBLE_MONSTER_MIN_LEVEL",
+    "value": "4",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 88,
+    "key": "USER_CRUCIBLE_FUEL_RELIC_COSTS_v2",
+    "value": "[2,4,6,12]",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 89,
+    "key": "USER_ETHEREAL_RARE_BOX_INV_WILDCARDS_PRICE_PER_GENE",
+    "value": "3",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 90,
+    "key": "USER_GUIDED_NURSERY_COOLDOWN_DURATION_S",
+    "value": "30",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 91,
+    "key": "USER_SYNTHESIZER_GENE_COSTS",
+    "value": "[2500,5000,11111]",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 92,
+    "key": "USER_GUIDED_NURSERY_SILENCE_DURATION_S",
+    "value": "300",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 93,
+    "key": "USER_MAX_NUM_TORCHES_PER_ISLAND",
+    "value": "10",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 94,
+    "key": "USER_SCRATCH_REWARD_MULTIPLIER",
+    "value": "2",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 95,
+    "key": "USER_NEWS_LIST_REFRESH_PERIOD",
+    "value": "5",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 96,
+    "key": "USER_DAILY_LOGIN_NOTIFICATION_FLEX_TIME",
+    "value": "7200",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 97,
+    "key": "USER_SYNTHESIZER_BASE_PERCENTAGES",
+    "value": "[0.5,0.15,0.05]",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 98,
+    "key": "USER_SHOW_SPIN_BUTTON_NOTIF_STAGE",
+    "value": "1",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 99,
+    "key": "USER_MAGICAL_NEXUS_TELEPORT_COST_EPIC",
+    "value": "[{\"type\":\"diamonds\",\"amount\":10},{\"type\":\"diamonds\",\"amount\":20},{\"type\":\"diamonds\",\"amount\":40},{\"type\":\"diamonds\",\"amount\":80}]",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 100,
+    "key": "USER_ETHEREAL_BREEDTIME_MULTIPLIER",
+    "value": "0.277777778",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 101,
+    "key": "USER_DIAMOND_EXCHANGE_RATE",
+    "value": "50,1000000,0.02",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 102,
+    "key": "USER_COIN_ETH_EXCHANGE_RATE",
+    "value": "500000,50",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 103,
+    "key": "USER_NATURAL_EPIC_BOX_INV_WILDCARDS_PRICE_PER_GENE",
+    "value": "2",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 104,
+    "key": "USER_MINE_UPGRADE_COST_PERCENT",
+    "value": "0.5",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 105,
+    "key": "USER_COSTUME_BUY_NOW_MULTIPLIER",
+    "value": "1.5",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 106,
+    "key": "USER_FIRE_RARE_BOX_INV_WILDCARDS_PRICE_PER_GENE",
+    "value": "2",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 107,
+    "key": "USER_CRUCIBLE_FUEL_RELIC_COSTS",
+    "value": "[2,4,6]",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 108,
+    "key": "USER_COSTUME_MEDALS_TO_COINS",
+    "value": "500",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 109,
+    "key": "USER_DISH_HARMONIZER_PRIMORDIAL_GENE_COST",
+    "value": "3",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 110,
+    "key": "USER_ETHEREAL_ISLET_MONSTER_TELEPORT_LEVEL",
+    "value": "14",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 111,
+    "key": "USER_FB_CUSTOM_EVENTS_URL",
+    "value": "http://www.mysingingmonsters.com/facebook/actions/",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 112,
+    "key": "USER_MAGICAL_NEXUS_TELEPORT_COST_RARE",
+    "value": "[{\"type\":\"diamonds\",\"amount\":5},{\"type\":\"diamonds\",\"amount\":10},{\"type\":\"diamonds\",\"amount\":20},{\"type\":\"diamonds\",\"amount\":40}]",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 113,
+    "key": "USER_ETHEREAL_ISLANDS_WITH_MODS",
+    "value": "7,24,26",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 114,
+    "key": "USER_FIRE_EPIC_BOX_INV_WILDCARDS_PRICE_PER_GENE",
+    "value": "3",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 115,
+    "key": "USER_GOLD_EPIC_WUBBOX_BASE_MONSTER_ID",
+    "value": "670",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 116,
+    "key": "USER_DAILY_LOGIN_BUYBACK_PRICE",
+    "value": "4",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 117,
+    "key": "USER_ADCOLONY_ANDROID_ENABLED",
+    "value": "1",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 118,
+    "key": "USER_EPIC_EGG_WILDCARD_COST_PER_GENE",
+    "value": "5",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 119,
+    "key": "USER_NOTIFICATIONS_DYNAMIC_NAG_INFREQUENT_PROMPT_EXPIRY_MS",
+    "value": "1814400000",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 120,
+    "key": "USER_SHOW_FLIP_BUTTON_NOTIF_STAGE",
+    "value": "1",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 121,
+    "key": "USER_MAX_NUM_EPIC_UNDERLINGS_OF_TYPE",
+    "value": "1",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 122,
+    "key": "USER_ETHEREAL_EPIC_BOX_INV_WILDCARDS_PRICE_PER_GENE",
+    "value": "4",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 123,
+    "key": "USER_CRUCIBLE_MAX_FLAG_BOOST_EPIC",
+    "value": "0.15",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 124,
+    "key": "USER_AD_READY_PULSE_FREQUENCY",
+    "value": "45",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 125,
+    "key": "USER_NOTIFICATIONS_DYNAMIC_NAG_PERIOD_DURATION_MS",
+    "value": "86400000",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 126,
+    "key": "USER_CRUCIBLE_MAX_LEVEL_BOOST_EPIC",
+    "value": "0.02",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 127,
+    "key": "USER_AD_READY_PULSE_LENGTH",
+    "value": "10",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 128,
+    "key": "USER_MAX_NUM_BREEDING_STRUCTURES",
+    "value": "2",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 129,
+    "key": "USER_AD_READY_PULSE_MAX",
+    "value": "3",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 130,
+    "key": "USER_RARE_CELESTIAL_POWERUP_KEY_COST",
+    "value": "10",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 131,
+    "key": "USER_MIN_MONSTERS_FOR_COLLECT_ALL",
+    "value": "1",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 132,
+    "key": "USER_GUIDED_BREEDING_COOLDOWN_DURATION_S",
+    "value": "30",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 133,
+    "key": "USER_MORE_GAMES_IOS",
+    "value": "playhaven",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 134,
+    "key": "USER_MINIMUM_KEYS_LEVEL",
+    "value": "8",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 135,
+    "key": "USER_SHOW_APPLE_TRACKING_PROMPT",
+    "value": "0",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 136,
+    "key": "USER_CRUCIBLE_HEAT_BOOST",
+    "value": "0.1",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 137,
+    "key": "USER_WUBLIN_RARE_BOX_NUM_REQUIRED_EGGS",
+    "value": "10",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 138,
+    "key": "USER_NOTIFICATIONS_DYNAMIC_NAG_PERIOD_FREQUENT_WINDOW",
+    "value": "7",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 139,
+    "key": "USER_T4_ISLET_BREEDTIME_MULTIPLIER",
+    "value": "0.952381",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 140,
+    "key": "USER_SCRATCHOFF_PRICE",
+    "value": "2",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 141,
+    "key": "USER_GUIDED_BAKERY_SILENCE_DURATION_S",
+    "value": "300",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 142,
+    "key": "USER_FB_POST_REWARD_REFRESH",
+    "value": "24",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 143,
+    "key": "USER_MAX_NUM_DIPSTERS_OF_TYPE",
+    "value": "10",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 144,
+    "key": "USER_CRUCIBLE_LEVEL_BOOST",
+    "value": "0.005",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 145,
+    "key": "USER_T2_ISLET_BREEDTIME_MULTIPLIER",
+    "value": "0.476190",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 146,
+    "key": "USER_MAX_NUM_UNDERLINGS_OF_TYPE",
+    "value": "0",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 147,
+    "key": "USER_CRUCIBLE_MAX_LEVEL_BOOST",
+    "value": "0.05",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 148,
+    "key": "USER_COLLECT_ALL_WAIT_MINS_NON_PAYING",
+    "value": "1380",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 149,
+    "key": "USER_ETHEREAL_COMMON_BOX_INV_WILDCARDS_PRICE_PER_GENE",
+    "value": "2",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 150,
+    "key": "USER_DISH_HARMONIZER_TARGET_GRANT_NUM_3_GENE",
+    "value": "9",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 151,
+    "key": "USER_COSTUME_MEDALS_TO_DIAMONDS",
+    "value": "0.2",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 152,
+    "key": "USER_EPIC_FIRE_BOX_INVENTORY_DIAMOND_PRICE_PER_MONSTER",
+    "value": "75",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 153,
+    "key": "USER_VESSEL_RELIC_TRADE_PERCENT",
+    "value": "0.5",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 154,
+    "key": "USER_DIAMOND_ETH_EXCHANGE_RATE",
+    "value": "150,1000",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 155,
+    "key": "USER_FB_MONSTERS_URL",
+    "value": "https://dlc2.bbbgame.net/my_singing_monsters/facebook/monsters/",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 156,
+    "key": "USER_MAX_NUM_NURSERIES",
+    "value": "2",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 157,
+    "key": "USER_ETHEREAL_ISLAND_HATCH_XP_MODIFIER",
+    "value": "0.027",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 158,
+    "key": "USER_NUM_RECOMMENDED_QUESTS",
+    "value": "5",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 159,
+    "key": "USER_MIN_MONSTERS_FOR_COLLECT_ALL_UNDERLING",
+    "value": "1",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 160,
+    "key": "USER_GUIDANCE_FOOD_MIN_PRICE",
+    "value": "1",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 161,
+    "key": "USER_DIAMOND_COST_PER_PERMALIT_MEGAMONSTER",
+    "value": "20",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 162,
+    "key": "USER_SPEED_UP_DURATION",
+    "value": "15",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 163,
+    "key": "USER_AMBER_BOX_INVENTORY_DIAMOND_PRICE_PER_EGG",
+    "value": "40",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 164,
+    "key": "USER_ASCEND_INVENTORY_DIAMOND_PRICE_PER_EGG",
+    "value": "30",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 165,
+    "key": "USER_ASCEND_INVENTORY_DIAMOND_PRICE_PER_EGG_RARE",
+    "value": "75",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 166,
+    "key": "USER_ASCEND_INVENTORY_DIAMOND_PRICE_PER_EGG_EPIC",
+    "value": "125",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 167,
+    "key": "USER_BOX_INVENTORY_DIAMOND_PRICE_PER_MONSTER",
+    "value": "30",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 168,
+    "key": "USER_CELESTIAL_INVENTORY_DIAMOND_PRICE_PER_EGG",
+    "value": "40",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 169,
+    "key": "USER_EPIC_BOX_INVENTORY_DIAMOND_PRICE_PER_MONSTER",
+    "value": "50",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 170,
+    "key": "USER_ETHEREAL_BOX_INVENTORY_DIAMOND_PRICE_PER_MONSTER",
+    "value": "800",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 171,
+    "key": "USER_EVOLVE_INVENTORY_DIAMOND_PRICE_PER_EGG",
+    "value": "30",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 172,
+    "key": "USER_EVOLVE_INVENTORY_DIAMOND_PRICE_PER_EGG_RARE",
+    "value": "100",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 173,
+    "key": "USER_EVOLVE_INVENTORY_DIAMOND_PRICE_PER_EGG_EPIC",
+    "value": "170",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 174,
+    "key": "USER_GOLD_BOX_INVENTORY_DIAMOND_PRICE_PER_MONSTER",
+    "value": "300",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 175,
+    "key": "USER_GOLD_RARE_BOX_INVENTORY_DIAMOND_PRICE_PER_MONSTER",
+    "value": "375",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 176,
+    "key": "USER_GOLD_EPIC_BOX_INVENTORY_DIAMOND_PRICE_PER_MONSTER",
+    "value": "500",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 177,
+    "key": "USER_RARE_BOX_INVENTORY_DIAMOND_PRICE_PER_MONSTER",
+    "value": "38",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 178,
+    "key": "USER_RARE_ETHEREAL_BOX_INVENTORY_DIAMOND_PRICE_PER_MONSTER",
+    "value": "1200",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 179,
+    "key": "USER_UNDERLING_INVENTORY_DIAMOND_PRICE_PER_EGG",
+    "value": "30",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 180,
+    "key": "USER_WUBLIN_BOX_INVENTORY_DIAMOND_PRICE_PER_MONSTER",
+    "value": "1000",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 181,
+    "key": "USER_EPIC_ETHEREAL_BOX_INVENTORY_DIAMOND_PRICE_PER_MONSTER",
+    "value": "1800",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 182,
+    "key": "USER_MIN_PLAYER_TELEPORT_LEVEL_V2",
+    "value": "10",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 183,
+    "key": "USER_TIMED_EVENT_UNLOCK_LEVEL_V2",
+    "value": "8",
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "id": 184,
+    "key": "cant_breed_monsters",
+    "value": "[30, 786, 35, 36, 37, 38, 39, 82, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 139, 140, 141, 142, 143, 144, 145, 147, 149, 150, 151, 152, 153, 154, 155, 233, 234, 238, 240, 243, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 276, 277, 445, 446, 463, 464, 515, 524, 531, 539, 540, 541, 542, 543, 544, 550, 551, 552, 553, 557, 558, 559, 562, 563, 564, 568, 569, 570, 573, 574, 575, 576, 577, 578, 579, 580, 581, 582, 586, 587, 588, 589, 591, 592, 593, 594, 595, 596, 600, 601, 602, 603, 608, 609, 612, 613, 615, 618, 619, 621, 622, 626, 627, 632, 633, 634, 635, 637, 638, 639, 640, 643, 645, 646, 647, 648, 649, 650, 651, 652, 653, 656, 657, 660, 662, 663, 665, 667, 668, 670, 671, 672, 673, 674, 675, 676, 680, 681, 682, 683, 684, 685, 686, 692, 693, 694, 696, 698, 702, 703, 704, 705, 706, 707, 708, 709, 710, 711, 712, 713, 714, 715, 716, 717, 718, 719, 720, 721, 722, 725, 726, 727, 728, 729, 730, 733, 735, 736, 737, 740, 741, 745, 746, 749, 751, 752, 754, 757, 758, 761, 762, 763, 764, 769, 771, 774, 778, 777, 779, 780, 784, 785, 787, 788, 795, 796, 798, 800, 804, 806, 807, 814, 815, 816, 821, 827, 829, 830, 831, 839, 840, 855, 856, 860, 866, 870, 871, 872, 873, 874, 876, 882]",
+    "last_changed": 1746022408528.188,
+    "date_created": 1746022408572
+  }
+]

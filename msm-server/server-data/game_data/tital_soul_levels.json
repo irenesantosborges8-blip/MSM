@@ -1,0 +1,66 @@
+[
+  {
+    "min_links": 0,
+    "power": 0,
+    "song_part": 0,
+    "id": 0,
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "min_links": 1,
+    "power": 1,
+    "song_part": 1,
+    "id": 1,
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "min_links": 2,
+    "power": 300,
+    "song_part": 1,
+    "id": 2,
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "min_links": 4,
+    "power": 600,
+    "song_part": 2,
+    "id": 3,
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "min_links": 6,
+    "power": 1000,
+    "song_part": 2,
+    "id": 4,
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "min_links": 10,
+    "power": 1500,
+    "song_part": 3,
+    "id": 5,
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "min_links": 12,
+    "power": 2100,
+    "song_part": 3,
+    "id": 6,
+    "last_changed": null,
+    "date_created": 1746022408572
+  },
+  {
+    "min_links": 12,
+    "power": 2800,
+    "song_part": 4,
+    "id": 7,
+    "last_changed": null,
+    "date_created": 1746022408572
+  }
+]

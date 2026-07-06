@@ -1,0 +1,57 @@
+[
+  {
+    "schedule": "{\"timeRemaining\": 0, \"startTimes\": [{\"duration\": 86400000, \"startTime\": 1746284400000}]}",
+    "critter_graphic": "critter_portrait_square_g",
+    "gene": "G",
+    "attuner_graphic": "window_g",
+    "instability": 1,
+    "island_id": 101,
+    "id": 1,
+    "last_changed": 1696250785000,
+    "date_created": 1746022408572
+  },
+  {
+    "schedule": "{\"timeRemaining\": 2787014, \"startTimes\": [{\"duration\": 86400000, \"startTime\": 1745938800000}, {\"duration\": 86400000, \"startTime\": 1746370800000}]}",
+    "critter_graphic": "critter_portrait_square_j",
+    "gene": "J",
+    "attuner_graphic": "window_j",
+    "instability": 2,
+    "island_id": 102,
+    "id": 2,
+    "last_changed": 1696250786000,
+    "date_created": 1746022408572
+  },
+  {
+    "schedule": "{\"timeRemaining\": 0, \"startTimes\": [{\"duration\": 86400000, \"startTime\": 1746025200000}]}",
+    "critter_graphic": "critter_portrait_square_k",
+    "gene": "K",
+    "attuner_graphic": "window_k",
+    "instability": 3,
+    "island_id": 103,
+    "id": 3,
+    "last_changed": 1696250786000,
+    "date_created": 1746022408572
+  },
+  {
+    "schedule": "{\"timeRemaining\": 0, \"startTimes\": [{\"duration\": 86400000, \"startTime\": 1746111600000}]}",
+    "critter_graphic": "critter_portrait_square_l",
+    "gene": "L",
+    "attuner_graphic": "window_l",
+    "instability": 4,
+    "island_id": 104,
+    "id": 4,
+    "last_changed": 1696250786000,
+    "date_created": 1746022408572
+  },
+  {
+    "schedule": "{\"timeRemaining\": 0, \"startTimes\": [{\"duration\": 86400000, \"startTime\": 1746198000000}]}",
+    "critter_graphic": "critter_portrait_square_m",
+    "gene": "M",
+    "attuner_graphic": "window_m",
+    "instability": 5,
+    "island_id": 105,
+    "id": 5,
+    "last_changed": 1696250786000,
+    "date_created": 1746022408572
+  }
+]
